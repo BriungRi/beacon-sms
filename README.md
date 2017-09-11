@@ -1,4 +1,4 @@
 # beacon-sms
 
 ## Example usage:
-![Alt text](/screenshots/chat.png?raw=true "Optional Title")
+![Alt text](/screenshots/chat.jpg?raw=true "Chat screenshot")
